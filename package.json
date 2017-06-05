@@ -1,0 +1,19 @@
+{
+  "name": "rest_full_mongo_node",
+  "version": "0.0.1",
+  "description": "leanrn",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rodrigo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.4",
+    "nodemon": "^1.11.0",
+    "validator": "^0.1.6",
+    "validator": "^7.0.0"
+  }
+}
